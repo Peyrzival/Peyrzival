@@ -18,4 +18,6 @@
   <a href="https://github.com/doomemacs/doomemacs"><img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white" target="_blank"></a>
   <a href="https://neovim.io/"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" target="_blank"></a>
   <a href="https://alacritty.org/"><img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white" target="_blank"></a>
+  
+    ![Snake animation](https://github.com/peyrzival/peyrzival/blob/output/github-contribution-grid-snake.svg)
   </div>
